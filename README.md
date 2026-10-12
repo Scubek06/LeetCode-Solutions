@@ -35,8 +35,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Scubek06/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0283-move-zeroes](https://github.com/Scubek06/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Scubek06/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Scubek06/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Scubek06/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 <!---LeetCode Topics End-->
